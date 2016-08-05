@@ -1,0 +1,45 @@
+/* classess */
+
+.content{
+	padding: 20px;
+}
+.panel{
+	background: #E6E6E6;
+	margin-top: 10px;
+	marker-start: 10px;
+	margin-left: 10px;
+	padding: 20px;
+}
+.task-item{
+	background-color: #FFFFFF;
+	margin-bottom: 10px;
+	padding: 10px
+}
+.green{
+	background-color: #63FF68;
+}
+.task-title{
+	font-size: large;
+}
+.task-date{
+	font-size: small;
+}
+.high-priority{
+	color: #EC5840;
+}
+.medium-priority{
+	color: #FFAE00;
+}
+
+/* id's */
+
+#login-form{
+	margin-top: 200px;
+}
+#register-form{
+	margin-top: 200px;
+}
+#button-add-task{
+	right: 0px;
+	width: 100%;
+}
